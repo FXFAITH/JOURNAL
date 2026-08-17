@@ -1,0 +1,6 @@
+{
+  "name": "Trading Journal",
+  "description": "Professional trading journal software with automated risk-to-reward calculation, chart screenshot attachments, emotional state tracking, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
